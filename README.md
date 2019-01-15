@@ -5,4 +5,4 @@ add the second sentence
 
 This is a line from RStudio.
 
-Second line of the RStudio commit.
+Second line of the RStudio commit on a Windows PC.
